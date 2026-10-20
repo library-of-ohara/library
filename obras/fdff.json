@@ -1,1 +1,32 @@
-
+{
+  "title": "One Piece",
+  "cover": "https://ibb.co/NgYfJJbX",
+  "description": "Monkey D. Luffy sonha em se tornar o Rei dos Piratas e encontrar o lendário tesouro conhecido como One Piece. Para isso, ele parte em uma grande aventura pelos mares, reunindo companheiros, enfrentando inimigos poderosos e desafiando o Governo Mundial. Em um mundo repleto de mistérios, ilhas extraordinárias e sonhos grandiosos, começa a jornada que mudará a história dos piratas para sempre. Acompanhe os capítulos de One Piece nesta página.",
+  "chapters": {
+    "1196": {
+      "title": "Capítulo 1196",
+      "groups": {
+        "Scan Eleven": [
+          "https://i.ibb.co/qFXKHhJD/image.png",
+          "https://i.ibb.co/Dgk9gMJQ/1.png",
+          "https://i.ibb.co/qLH0n4Fp/2.png",
+          "https://i.ibb.co/nM1KTsyT/3.png",
+          "https://i.ibb.co/9Ft45Lp/4.png",
+          "https://i.ibb.co/3yttRD5t/5.png",
+          "https://i.ibb.co/6LRvP5q/6.png",
+          "https://i.ibb.co/TBcPSLCC/7.png",
+          "https://i.ibb.co/whnSntSc/8.png",
+          "https://i.ibb.co/HfSygnJF/9.jpg",
+          "https://i.ibb.co/GfGb7GC4/10.jpg",
+          "https://i.ibb.co/Ngj3cGQQ/11.jpg",
+          "https://i.ibb.co/XkK1tD7H/12.jpg",
+          "https://i.ibb.co/7tTPRJW1/13.jpg",
+          "https://i.ibb.co/9H7TR7DF/14-15.jpg",
+          "https://i.ibb.co/NdsFbVTX/16.jpg",
+          "https://i.ibb.co/9mwH4w4V/17.jpg"
+        ]
+      },
+      "last_updated": "1792387057"
+    }
+  }
+}
